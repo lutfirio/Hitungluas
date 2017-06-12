@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="1"
+    android:padding="10dp">
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Segi Empat"
+        android:id="@+id/button_segiempat"
+        android:background="#4052b5"
+        android:textColor="#ffffff"
+        android:layout_weight="0.13"
+        android:layout_margin="5dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Segitiga"
+        android:id="@+id/button_segitiga"
+        android:background="#4052B5"
+        android:textColor="#ffffff"
+        android:layout_weight="0.13"
+        android:layout_margin="5dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lingkaran"
+        android:id="@+id/button_lingkaran"
+        android:background="#4052B5"
+        android:textColor="#ffffff"
+        android:layout_weight="0.13"
+        android:layout_margin="5dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Persegi Panjang"
+        android:id="@+id/button_persegipanjang"
+        android:background="#4052B5"
+        android:textColor="#ffffff"
+        android:layout_weight="0.13"
+        android:layout_margin="5dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jajar Genjang"
+        android:id="@+id/button_jajargenjang"
+        android:background="#4052B5"
+        android:textColor="#ffffff"
+        android:layout_weight="0.13"
+        android:layout_margin="5dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Layang-Layang"
+        android:id="@+id/button_layanglayang"
+        android:background="#4052B5"
+        android:textColor="#ffffff"
+        android:layout_weight="0.13"
+        android:layout_margin="5dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Trapesium"
+        android:id="@+id/button_trapesium"
+        android:background="#4052B5"
+        android:textColor="#ffffff"
+        android:layout_weight="0.13"
+        android:layout_margin="5dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Belah Ketupat"
+        android:id="@+id/button_belahketupat"
+        android:background="#4052B5"
+        android:textColor="#ffffff"
+        android:layout_weight="0.13"
+        android:layout_margin="5dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="356dp"
+        android:layout_height="wrap_content"
+        android:text="Exit"
+        android:id="@+id/button_exit"
+        android:background="#4052B5"
+        android:textColor="#ffffff"
+        android:layout_margin="5dp" />
+
+</LinearLayout>
